@@ -9,6 +9,8 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+![Wireframe#1](https://user-images.githubusercontent.com/18252560/128796376-5b58c595-7bf1-4bea-aed8-db8d6bad1f5f.png)
+
 
 ### Project Tracker
 
